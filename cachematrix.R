@@ -4,7 +4,6 @@
 ## Write a short comment describing this function
 ## This function creates a special "matrix" object that can cache its inverse, which is really a list containing a function to:
 
-makeCacheMatrix <- function(x = matrix()) {
   ##set the value of the matrix
 
   ##get the value of the matrix
